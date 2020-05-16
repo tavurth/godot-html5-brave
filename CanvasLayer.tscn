@@ -1,0 +1,16 @@
+[gd_scene format=2]
+
+[node name="CanvasLayer" type="CanvasLayer"]
+
+[node name="Working" type="Label" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 6
+size_flags_vertical = 6
+text = "Working
+"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
